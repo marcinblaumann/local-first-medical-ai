@@ -123,7 +123,7 @@ Hybrid architectures may still be useful where appropriate, but the local enviro
 
 The tools described here are intended to support clinicians, not to replace their decisions. Every generated document requires physician verification.
 
-This repository does not constitute a declaration of conformity or a statement of medical-device certification. Data protection (GDPR), medical-device (MDR) and AI Act requirements are taken into account in the design of the local-first architecture.
+This repository does not constitute a declaration of conformity or a statement of medical-device certification. Keeping data within the healthcare facility is intended to make it easier to meet data protection (GDPR) requirements. The regulatory status of the solution, including medical-device (MDR) and AI Act requirements, will be assessed as the project develops.
 
 ## Project status
 
